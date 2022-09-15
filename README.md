@@ -27,3 +27,5 @@
     <img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black" alt="Medium Badge"/>
   </a>
 </div>
+
+<img src="https://komarev.com/ghpvc/?username=aviralsharma07&style=flat-square&color=blue" alt=""/>
