@@ -51,5 +51,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviralsharma07&show_icons=true&theme=vision-friendly-dark&layout=compact" />
 </p>
 
-
+## <p align="center"> Blogs on HashNode</p>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
