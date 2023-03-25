@@ -53,5 +53,6 @@
 
 ## <p align="center"> :books: Blogs on Hashnode</p>
 <!-- BLOGPOSTS:START -->
-<!-- BLOGPOSTS:END -->
+ - 🔥 [Stack Data Structure in C++ Complete Guide &lpar;2023&rpar;](https://aviralsharma.hashnode.dev/stack-data-structure-in-c-complete-guide-2023)
+ - 🚀 [Arrays and ArrayList in Java – Difference and complete guide](https://aviralsharma.hashnode.dev/arrays-and-arraylist-in-java-difference-and-complete-guide)<!-- BLOGPOSTS:END -->
 
