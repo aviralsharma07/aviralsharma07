@@ -53,9 +53,9 @@
 
 ## <p align="center"> :books: Blogs on Hashnode</p>
 <!-- BLOGPOSTS:START -->
- - 🔥 [Complete Guide To ERC-20 standard for Ethereum network &lpar;2023&rpar;](https://aviralsharma.hashnode.dev/complete-guide-to-erc-20-standard-for-ethereum-network-2023)
- - 🚀 [A Layman&#39;s Guide to Linux: A Brief History](https://aviralsharma.hashnode.dev/a-laymans-guide-to-linux-a-brief-history)
+ - 🔥 [Demystifying Operating Systems: A Beginner&#39;s Guide](https://aviralsharma.hashnode.dev/demystifying-operating-systems-a-beginners-guide)
+ - 🚀 [Complete Guide To ERC-20 standard for Ethereum network &lpar;2023&rpar;](https://aviralsharma.hashnode.dev/complete-guide-to-erc-20-standard-for-ethereum-network-2023)
+ - 💯 [A Layman&#39;s Guide to Linux: A Brief History](https://aviralsharma.hashnode.dev/a-laymans-guide-to-linux-a-brief-history)
  - 💯 [Mastering Queue Data Structure in C++: A Comprehensive Guide](https://aviralsharma.hashnode.dev/mastering-queue-data-structure-in-c-a-comprehensive-guide)
- - 💯 [Stack Data Structure in C++ Complete Guide &lpar;2023&rpar;](https://aviralsharma.hashnode.dev/stack-data-structure-in-c-complete-guide-2023)
- - 💫 [Arrays and ArrayList in Java – Difference and complete guide](https://aviralsharma.hashnode.dev/arrays-and-arraylist-in-java-difference-and-complete-guide)<!-- BLOGPOSTS:END -->
+ - 💫 [Stack Data Structure in C++ Complete Guide &lpar;2023&rpar;](https://aviralsharma.hashnode.dev/stack-data-structure-in-c-complete-guide-2023)<!-- BLOGPOSTS:END -->
 
