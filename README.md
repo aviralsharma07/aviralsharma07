@@ -20,10 +20,8 @@
 ```js
   Hello World;
   
-- I am Learning DSA in JAVA;
-- I am an aspiring Web-Developer and Learning CSS and Javascript.
-- I am curious about Linux kernel and Web-3.
-- Exploring Open Source to contribute and enhance my skills.
+- I am an aspiring React Developer.
+- I am doing DSA in Java
 
 ```
 
