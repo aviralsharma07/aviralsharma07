@@ -31,6 +31,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt-"CSS" height=50 width=50 />
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" alt-"C++" height=50 width=50 />
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt-"Java" height=50 width=50 />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt-"Java" height=50 width=50 />	
+    <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt-"Java" height=50 width=50 />	
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt-"Java" height=50 width=50 />	
 </p>
 
 <hr>
