@@ -54,9 +54,9 @@
 
 ## <p align="center"> :books: Blogs on Hashnode</p>
 <!-- BLOGPOSTS:START -->
- - 🔥 [Demystifying Operating Systems: A Beginner&#39;s Guide](https://aviralsharma.hashnode.dev/demystifying-operating-systems-a-beginners-guide)
- - 🚀 [Complete Guide To ERC-20 standard for Ethereum network &lpar;2023&rpar;](https://aviralsharma.hashnode.dev/complete-guide-to-erc-20-standard-for-ethereum-network-2023)
+ - 🔥 [A Beginner’s Guide to Web 3 Architecture and Web 3 Tech Stack](https://aviralsharma.hashnode.dev/a-beginners-guide-to-web-3-architecture-and-web-3-tech-stack)
+ - 🚀 [Demystifying Operating Systems: A Beginner&#39;s Guide](https://aviralsharma.hashnode.dev/demystifying-operating-systems-a-beginners-guide)
+ - 💯 [Complete Guide To ERC-20 standard for Ethereum network &lpar;2023&rpar;](https://aviralsharma.hashnode.dev/complete-guide-to-erc-20-standard-for-ethereum-network-2023)
  - 💯 [A Layman&#39;s Guide to Linux: A Brief History](https://aviralsharma.hashnode.dev/a-laymans-guide-to-linux-a-brief-history)
- - 💯 [Mastering Queue Data Structure in C++: A Comprehensive Guide](https://aviralsharma.hashnode.dev/mastering-queue-data-structure-in-c-a-comprehensive-guide)
- - 💫 [Stack Data Structure in C++ Complete Guide &lpar;2023&rpar;](https://aviralsharma.hashnode.dev/stack-data-structure-in-c-complete-guide-2023)<!-- BLOGPOSTS:END -->
+ - 💫 [Mastering Queue Data Structure in C++: A Comprehensive Guide](https://aviralsharma.hashnode.dev/mastering-queue-data-structure-in-c-a-comprehensive-guide)<!-- BLOGPOSTS:END -->
 
