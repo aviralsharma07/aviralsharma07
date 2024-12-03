@@ -12,16 +12,14 @@
   <a href="https://twitter.com/_aviral07">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://medium.com/@thecuriosityjournal">
-    <img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black" alt="Medium Badge"/>
-  </a>
 </p>  
 
 ```js
   Hello World;
   
-- I am an aspiring React Developer.
-- I am doing DSA in Java
+- I am a Frontend Developer currently working as an Inten at Digitise My Business
+- I like to build for the web and specialise in using NextJs,Typescript, Redux and Tailwind, REST APIs. 
+- I am open to collaborate on Exciting Projects. 
 
 ```
 
@@ -29,11 +27,12 @@
 <p align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt-"Html" height=50 width=50 />
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt-"CSS" height=50 width=50 />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" alt-"C++" height=50 width=50 />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt-"Tailwind++" height=50 width=50 />
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt-"Java" height=50 width=50 />
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt-"Java" height=50 width=50 />	
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt-"Java" height=50 width=50 />	
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt-"Java" height=50 width=50 />	
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt-"Java" height=50 width=50 />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt-"Typescript" height=50 width=50 />
 </p>
 
 <hr>
