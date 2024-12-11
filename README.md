@@ -17,7 +17,7 @@
 ```js
   Hello World;
   
-- I am a Frontend Developer currently working as an Inten at Digitise My Business
+- I am a Frontend Developer currently working as an Intern at Digitise My Business
 - I like to build for the web and specialise in using NextJs,Typescript, Redux and Tailwind, REST APIs. 
 - I am open to collaborate on Exciting Projects. 
 
